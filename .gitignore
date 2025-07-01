@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node / Python / tools (optional if ever added)
+node_modules/
+__pycache__/
+*.pyc
+
+# VS Code / JetBrains IDEs
+.vscode/
+.idea/
+
+# Log or temp files
+*.log
+*.tmp
+*.bak
+
+# Output folders (optional)
+dist/
+build/
+output/

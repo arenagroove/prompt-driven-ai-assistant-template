@@ -1,0 +1,13 @@
+# Treat Markdown as text and enforce LF endings
+*.md text eol=lf
+
+# Normalize shell and config files
+*.sh text eol=lf
+*.json text eol=lf
+
+# Set default behavior
+* text=auto
+
+# GitHub linguist: mark templates as documentation
+template-GPT.md linguist-documentation
+PROJECT.md linguist-documentation
