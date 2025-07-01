@@ -154,10 +154,12 @@ Contributions are welcome! Please follow the project’s style and documentation
 
 ## 📝 Version History
 
-| Version | Date | Changes |
-|--------:|:-----|:--------|
-| 1.0 | 2025-07-01 | Initial release with full assistant framework, lens system, drift levels, bias modes, and project docs |
-| 1.1 | 2025-07-02 | Added README visual cover, LICENSE file, git hygiene (.gitignore, .gitattributes), and clarified version strategy |
+| Version | Date       | Changes                                                                 |
+|--------:|:-----------|-------------------------------------------------------------------------|
+| 1.0     | 2025-07-01 | Initial release with full assistant framework, lens system, drift levels, bias modes, and project docs |
+| 1.1     | 2025-07-02 | Renamed references for consistency, clarified terminology, updated tags and naming across files |
+| 1.1.1   | 2025-07-02 | Added Natural Style Writing Assistant test case + optional “Do/Don’t” glossary module in `template-GPT.md` |
+
 
 ## 📜 License
 
