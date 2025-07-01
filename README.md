@@ -154,9 +154,9 @@ Contributions are welcome! Please follow the project’s style and documentation
 ## 📝 Version History
 
 | Version | Date | Changes |
-| :-- | :-- | :-- |
-| 1.0 | YYYY-MM-DD | Initial template |
-| 1.1 | YYYY-MM-DD | Added quick-start, testing, and troubleshooting sections |
+|--------:|:-----|:--------|
+| 1.0 | 2025-07-01 | Initial release with full assistant framework, lens system, drift levels, bias modes, and project docs |
+| 1.1 | 2025-07-02 | Added README visual cover, LICENSE file, git hygiene (.gitignore, .gitattributes), and clarified version strategy |
 
 ## 📜 License
 

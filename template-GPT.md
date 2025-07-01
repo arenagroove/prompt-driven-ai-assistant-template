@@ -391,12 +391,10 @@ A: Enable localization and internationalization guidelines.
 
 ---
 
-## 📝 VERSION HISTORY
-
-| Version | Date       | Changes                  |
-|---------|------------|--------------------------|
-| 1.0     | YYYY-MM-DD | Initial template         |
-| 1.1     | YYYY-MM-DD | Added quick-start, testing, and troubleshooting sections |
+<!--
+NOTE: Versioning is tracked in the main README.md, not this file.
+You may version your own assistants separately if you fork this template.
+-->
 
 ---
 
