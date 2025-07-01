@@ -1,5 +1,7 @@
 # 🧠 AI Assistant Template – README Overview
 
+![Prompt-Driven AI Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
+
 **A modular, customizable framework for building advanced AI assistants—compatible with OpenAI Custom GPTs, Claude, and other leading models.**
 
 This modular framework helps you design powerful, strategic, and creative AI assistants using GPT or Claude.
