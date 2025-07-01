@@ -26,3 +26,11 @@ All notable changes to this project will be documented in this file.
 - Clarified terminology: Prompt-Driven AI Assistant vs Template
 - Updated titles and tags across `README.md`, `PROJECT.md`, and `template-GPT.md`
 - Aligned tag structure and naming conventions
+
+---
+
+## [1.1.1] – 2025-07-01
+### Added
+- New test case: Natural Style Writing Assistant
+- Optional "Style Glossary (Do/Don't List)" module referenced in `template-GPT.md` under Input Guidelines
+

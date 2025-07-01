@@ -46,6 +46,8 @@ If context is vague, ask clarifying questions before proceeding. Use prompt chai
 - **Avoid excessive length (>4,000 tokens may be truncated)**
 - **Images, files, or embedded media must be described textually unless otherwise supported**
 
+🔸 Optional: Assistants focused on writing or tone may include a custom **Style Glossary** (Do/Don't List) to guide voice, clarity, or brand alignment.
+
 ---
 
 ## 🎭 ROLES (Behavioral Perspective)

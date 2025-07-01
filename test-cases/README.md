@@ -35,6 +35,9 @@ Clarifies mission, roles, lenses, drift, and outputs a ready-to-use `.md` config
 A smart, conversational critique partner for writers, designers, and brand strategists.  
 Applies symbolic drift and brand/contextual lenses to analyze and reframe creative work.
 
+### [`natural-style-writing-assistant.md`](./natural-style-writing-assistant.md)  
+Helps users rewrite content in a clear, human tone. Removes jargon, hype, and AI-speak for emails, posts, internal updates, and more.
+
 ---
 
 **More test cases coming soon.**  
