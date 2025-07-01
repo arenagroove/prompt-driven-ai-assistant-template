@@ -1,5 +1,7 @@
 # 🧠 AI Assistant Template – Project Overview
 
+![Prompt-Driven AI Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
+
 A modular, multi-platform framework for designing and deploying advanced GPT-based assistants — optimized for creativity, strategic clarity, factual control, and iterative refinement.
 
 ---
