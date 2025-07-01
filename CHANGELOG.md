@@ -17,3 +17,12 @@ All notable changes to this project will be documented in this file.
 - MIT License and versioning logic
 - Visual cover image for GitHub and documentation
 - Internal docs: `PROJECT.md`, `README.md`
+
+---
+
+## [1.1.0] – 2025-07-01
+### Changed
+- Renamed project references to use "Prompt-Driven Assistant Template" consistently
+- Clarified terminology: Prompt-Driven AI Assistant vs Template
+- Updated titles and tags across `README.md`, `PROJECT.md`, and `template-GPT.md`
+- Aligned tag structure and naming conventions

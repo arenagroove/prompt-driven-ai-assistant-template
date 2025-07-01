@@ -1,10 +1,11 @@
-# 🧠 AI Assistant Template – README Overview
+# 🧠 Prompt-Driven Assistant Template – README Overview
 
-![Prompt-Driven AI Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
+![Prompt-Driven Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
 
-**A modular, customizable framework for building advanced AI assistants—compatible with OpenAI Custom GPTs, Claude, and other leading models.**
+**A modular, customizable framework for building Prompt-Driven AI Assistants — where behavior, tone, and structure are fully defined through prompt layers.**
 
-This modular framework helps you design powerful, strategic, and creative AI assistants using GPT or Claude.
+
+This template helps you design powerful, strategic, and creative assistants using a transparent, modular prompt system — not hidden code or black-box logic.
 
 It supports role-based behavior, drift-level creativity, bias control, and collaborative workflows.
 
@@ -164,4 +165,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🔖 Tags
 
-`#PromptEngineering` `#AIAssistant` `#MultiAgent` `#CreativeAI` `#ModularGPT` `#LensDesign` `#StrategicUX` `#InterpretiveDrift`
+`#PromptEngineering` `#PromptDrivenAssistant` `#MultiAgent` `#CreativeAI` `#ModularGPT` `#LensDesign` `#StrategicUX` `#InterpretiveDrift`

@@ -1,14 +1,14 @@
-# 🧠 AI Assistant Template – Project Overview
+# 🧠 Prompt-Driven Assistant Template – Project Overview
 
-![Prompt-Driven AI Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
+![Prompt-Driven Assistant Template Cover](prompt-driven-ai-assistant-template-cover.png)
 
-A modular, multi-platform framework for designing and deploying advanced GPT-based assistants — optimized for creativity, strategic clarity, factual control, and iterative refinement.
+A modular, prompt-first framework for designing and deploying GPT-based assistants — where the behavior, tone, and logic are shaped entirely through structured prompt layers.
 
 ---
 
 ## 🎯 What Is This?
 
-This is a **design system for AI assistants**. It allows you to define, configure, and document GPT-based tools using:
+This is a **template system for prompt-driven AI assistants**. It allows you to define, configure, and document GPT-based tools using:
 
 - Roles (behavioral tone and function)
 - Lenses (interpretive perspective)
@@ -82,5 +82,5 @@ This is a **design system for AI assistants**. It allows you to define, configur
 
 ## 🔖 Tags
 
-`#PromptEngineering` `#AIAssistants` `#InterpretiveDrift` `#LensDrivenAI` `#ModularGPT` `#StrategicUX` `#OpenAI` `#Claude` `#Gemini`
+`#PromptEngineering` `#PromptDrivingAssistant` `#InterpretiveDrift` `#LensDrivenAI` `#ModularGPT` `#StrategicUX` `#OpenAI` `#Claude` `#Gemini`
 
