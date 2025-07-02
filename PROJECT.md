@@ -13,7 +13,9 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 - Roles (behavioral tone and function)
 - Lenses (interpretive perspective)
 - Drift Levels (literal to symbolic output)
-- Output Modes (intent + flavor)
+- Output Modes
+- Prompt Engineering Techniques (Scrambled Prompting, Emotion Shaping, etc.)
+- Optional PrecisionMode for stricter factual control (intent + flavor)
 - Personality Modes (tone calibration)
 - Bias & Fact-Check Control
 - Structured Output Formats
@@ -68,19 +70,20 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 ## 📁 Suggested Repo Structure
 
 ```
-/ai-assistant-template
-│
-├── template-GPT.md            # Full assistant configuration
-├── README.md                  # Public-facing usage guide
-├── PROJECT.md                 # Internal project purpose and scope
-├── LICENSE                    # MIT or preferred license
-├── examples/                  # Optional directory for prompt/test cases
-└── .gitignore
-```
+prompt-driven-ai-assistant-template/
+├── template-GPT.md                  # Full assistant configuration template
+├── README.md                        # Public-facing usage guide
+├── PROJECT.md                       # Internal project purpose and scope
+├── LICENSE                          # MIT or preferred license
+├── CHANGELOG.md                     # Version history and updates
+├── prompt-driven-ai-assistant-template-cover.png  # Visual identity asset
+├── test-cases/                      # Example assistants built using the template
+├── .gitignore                       # Git exclusions
+├── .gitattributes                   # Git encoding and diff settings
 
+```
 ---
 
 ## 🔖 Tags
 
 `#PromptEngineering` `#PromptDrivingAssistant` `#InterpretiveDrift` `#LensDrivenAI` `#ModularGPT` `#StrategicUX` `#OpenAI` `#Claude` `#Gemini`
-

@@ -62,6 +62,9 @@ Follow these steps to get your assistant running:
 - Presets for common tasks + example prompts.
 - Refinement loop for iterative feedback.
 - Testing, validation, troubleshooting, and collaborative tools.
+- Optional PrecisionMode for stricter factual control (Strict / Adaptive / Experimental).
+- Supports prompt engineering techniques like Emotion Shaping or Scrambled Prompting.
+
 
 
 ## 🧱 Template Structure Overview
@@ -75,7 +78,7 @@ Follow these steps to get your assistant running:
 | **Drift Levels** | Range from literal to recursive interpretation. |
 | **Output Modes** | Intent (Concept, Tooling, Strategy, Reflective, Hybrid) and flavor options. |
 | **Personality Modes** | Tone and delivery settings (e.g., Neutral, Conversational, Poetic). |
-| **Bias \& Fact-Check Mode** | Strict, Flexible, or Creative/Experimental bias mitigation. |
+| **Bias \& Fact-Check Mode** | Strict, Flexible, or Creative/Experimental bias mitigation + optional PrecisionMode. |
 | **Output Structure** | Standard and performance content formats. |
 | **Behavioral Principles** | Core behaviors and quality standards. |
 | **Refinement Loop** | Next-step options for iterative improvement. |
@@ -122,6 +125,11 @@ BiasMode: [Strict | Flexible | Creative/Experimental]
 - **After:** `"Summarize this document using the Reflective Learning lens and Drift 2. Include key insights and actionable recommendations."`
 → Summary with structured insights
 
+**Refinement Chain Example:**  
+`"Remix this 2010 portfolio site for a modern creative studio"`  
+→ Initial: symbolic, brand-focused rewrite  
+→ Follow-up: “Want it more human or more speculative?”
+
 
 ## 🧪 Testing \& Validation
 
@@ -159,6 +167,7 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.0     | 2025-07-01 | Initial release with full assistant framework, lens system, drift levels, bias modes, and project docs |
 | 1.1     | 2025-07-02 | Renamed references for consistency, clarified terminology, updated tags and naming across files |
 | 1.1.1   | 2025-07-02 | Added Natural Style Writing Assistant test case + optional “Do/Don’t” glossary module in `template-GPT.md` |
+| 1.2     | 2025-07-02 | Major upgrade: regenerated all test cases, added Prompt Engineering & PrecisionMode, output fix, strategic enhancements |
 
 
 ## 📜 License
