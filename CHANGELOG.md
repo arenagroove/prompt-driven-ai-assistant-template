@@ -55,3 +55,23 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Output splitting issues resolved via hardened Markdown block instructions
+
+---
+
+## [1.3.0] – 2025-07-03
+
+### Added
+- Role Flow section to support multi-agent logic and handoff design
+- Memory & Reflection section to simulate feedback loops and adaptive behavior
+- Interactive Preset Logic section for conditional outputs based on drift, lens, or user intent
+- Critique Mode for optional assistant self-review and output reflection
+
+### Updated
+- `template-GPT.md` structurally aligned with all new logic while preserving compatibility
+- `README.md` table updated to reflect new v1.3 sections
+- `prompt-driven-assistant-generator.md` modified to support all new assistant capabilities
+- All test cases rebuilt using the updated v1.3 template
+
+### Fixed
+- Duplicate and outdated optional input notes in the generator were consolidated
+

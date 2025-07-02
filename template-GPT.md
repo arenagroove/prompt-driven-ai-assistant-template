@@ -379,6 +379,81 @@ Define shortcut configurations:
 
 ---
 
+## 🔁 ROLE FLOW (Multi-Agent Logic)
+
+> 💡 *Use this section if your assistant involves multiple roles or agent handoffs.*
+
+Define how different roles or behavior modes pass control or build upon one another:
+
+**Example:**
+1. **Strategic Partner** → Generates outline based on prompt intent  
+2. **Critical Reader** → Reviews for clarity, flags issues  
+3. **Creative Director** → Rewrites for tone and visual storytelling  
+4. **Poetic Rewriter** → Optionally remixes symbolically using Drift 5+
+
+You may also simulate **collaborative panels**, back-and-forth critique, or hierarchical flows (e.g., Strategist → Reviewer → Editor).
+
+If unsupported by platform memory, ensure previous role outputs are passed as input blocks.
+
+---
+
+## 🧠 MEMORY & REFLECTION
+
+> 💡 *Use this section to simulate memory, refinement history, or iterative learning — especially when feedback shapes future behavior.*
+
+Assistants may reference:
+- Prior outputs or edits
+- User feedback loops ("That wasn’t clear — rewrite for clarity")
+- Recurring adjustments ("You keep adding metaphor — apply that by default")
+
+Use this to:
+- Simulate memory in prompt-driven systems
+- Scaffold critique-awareness or iterative design
+- Personalize output logic (e.g., “Previously, you preferred Drift 2 for summaries”)
+
+If platform memory is available, this section can define what to persist.  
+If not, include this logic in the prompt structure itself.
+
+---
+
+## 🎛️ INTERACTIVE PRESET LOGIC
+
+> 💡 *Define adaptive behavior rules based on lens, drift, or user input — without external scripting.*
+
+Use this section to describe logic such as:
+
+- “If Drift ≥ 4, include metaphor, symbolism, or poetic phrasing”
+- “If Lens = Strategic + Drift ≥ 3, add headline variants”
+- “If user says ‘Make it lighter’, reduce tone intensity and remove formal language”
+- “If PrecisionMode = Strict, prioritize factual phrasing and avoid speculation”
+
+These interaction patterns allow assistants to evolve behavior without rewriting the whole template.  
+They’re useful for chaining, personalizing, or layering assistant logic.
+
+Keep it simple — use decision trees, conditional bullets, or rules of thumb.
+
+---
+
+## 🪞 CRITIQUE MODE (Optional Self-Reflection)
+
+> 💡 *Use this section to simulate assistant self-awareness or review logic after generating output.*
+
+Define how the assistant should critique its own response:
+
+- Add a final block like:  
+  _“Here’s what I’d improve in this draft…”_  
+- Mention what could be clearer, stronger, or more aligned to the user’s intent  
+- If enabled, include reflection in a clearly marked section after the main response
+
+This mode can:
+- Help users understand trade-offs or weaknesses
+- Encourage more active collaboration and editing
+- Reveal assistant reasoning without external tools
+
+If not needed, leave disabled by default.
+
+---
+
 ## 📋 USAGE EXAMPLES
 
 

@@ -86,12 +86,17 @@ Follow these steps to get your assistant running:
 | **Edge Case Handling** | Strategies for vague or experimental inputs. |
 | **Strategic Enhancers** | Credibility boosters and AI optimization tips. |
 | **Preset Modes** | Shortcut configurations for common use cases. |
+| **Role Flow** | Multi-agent handoffs and cooperative logic. |
+| **Memory & Reflection** | Feedback simulation and behavioral adaptation. |
+| **Interactive Preset Logic** | Adaptive behavior rules based on drift, lens, or user intent. |
+| **Critique Mode** | Optional self-reflection logic to evaluate assistant output. |
 | **Usage Examples** | Practical prompts and expected outputs. |
 | **Configuration Notes** | Implementation and multi-agent integration guidance. |
 | **Customization Checklist** | Step-by-step checklist for tailoring the template. |
 | **Testing \& Validation** | User feedback, A/B testing, and success metrics. |
 | **Troubleshooting \& FAQ** | Common issues and solutions. |
 | **Version History** | Track changes and updates. |
+
 
 ## ⚙️ Configuration \& Customization
 
@@ -107,7 +112,6 @@ Follow these steps to get your assistant running:
 ```markdown
 BiasMode: [Strict | Flexible | Creative/Experimental]
 ```
-
 
 ## 📋 Usage Examples
 
@@ -168,6 +172,7 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.1     | 2025-07-02 | Renamed references for consistency, clarified terminology, updated tags and naming across files |
 | 1.1.1   | 2025-07-02 | Added Natural Style Writing Assistant test case + optional “Do/Don’t” glossary module in `template-GPT.md` |
 | 1.2     | 2025-07-02 | Major upgrade: regenerated all test cases, added Prompt Engineering & PrecisionMode, output fix, strategic enhancements |
+| 1.3     | 2025-07-03 | Added multi-agent role flow, memory simulation, adaptive preset logic, and critique mode |
 
 
 ## 📜 License

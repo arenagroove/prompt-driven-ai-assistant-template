@@ -35,6 +35,10 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 - Bias handling configuration
 - Refinement loop and edge case handling
 - Strategic enhancers and testing protocols
+- Role Flow (multi-agent logic and handoff structure)
+- Memory & Reflection (feedback simulation and adaptation)
+- Interactive Preset Logic (conditional rules based on drift, lens, or tone)
+- Critique Mode (optional assistant self-review)
 - Usage examples, presets, and customization checklist
 
 ### `README.md`
