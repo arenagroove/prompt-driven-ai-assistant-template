@@ -68,6 +68,7 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 - Branded assistant personalities
 - Educational, reflective, or planning tools
 - Role-diverse, multimodal, or multi-agent assistants
+- **AI citation optimization (GEO) for thought leaders and publishers**
 
 ---
 
@@ -81,7 +82,7 @@ prompt-driven-ai-assistant-template/
 ├── LICENSE                          # MIT or preferred license
 ├── CHANGELOG.md                     # Version history and updates
 ├── prompt-driven-ai-assistant-template-cover.png  # Visual identity asset
-├── test-cases/                      # Example assistants built using the template
+├── test-cases/                      # Example assistants built using the template (e.g., critique, writing, GEO optimization)
 ├── .gitignore                       # Git exclusions
 ├── .gitattributes                   # Git encoding and diff settings
 

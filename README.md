@@ -57,6 +57,7 @@ Follow these steps to get your assistant running:
 - Modular design with roles, lenses, and personality modes.
 - Interpretive drift levels from Literal to Unmoored.
 - Output intent + flavor for tone and use case control.
+- GEO-aware assistant design for AI citation, discoverability, and structured formatting.
 - Built-in Bias \& Fact-Check Mode (Strict / Flexible / Creative).
 - Structured outputs and behavioral principles.
 - Presets for common tasks + example prompts.
@@ -173,6 +174,7 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.1.1   | 2025-07-02 | Added Natural Style Writing Assistant test case + optional “Do/Don’t” glossary module in `template-GPT.md` |
 | 1.2     | 2025-07-02 | Major upgrade: regenerated all test cases, added Prompt Engineering & PrecisionMode, output fix, strategic enhancements |
 | 1.3     | 2025-07-03 | Added multi-agent role flow, memory simulation, adaptive preset logic, and critique mode |
+| 1.3.1   | 2025-07-02 | Added GEO Content Strategist test case focused on AI citation and LLM discoverability |
 
 
 ## 📜 License

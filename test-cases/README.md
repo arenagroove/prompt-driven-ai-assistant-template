@@ -49,3 +49,8 @@ Ideal for internal comms, social posts, intros, and customer-facing updates.
 Helps users design and debug prompts using structured scoring, symbolic rewrites, and quick critique logic.  
 Great for AI educators, prompt engineers, or assistant builders.
 
+### [`geo-content-strategist.md`](./geo-content-strategist.md)  
+Helps creators optimize content for AI visibility and citation.  
+Applies Generative Engine Optimization (GEO) strategies using schema, prompt formatting, and metadata.
+
+

@@ -75,3 +75,12 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Duplicate and outdated optional input notes in the generator were consolidated
 
+---
+
+## [1.3.1] – 2025-07-02
+### Added
+- New test case: GEO Content Strategist
+  - Supports Generative Engine Optimization (GEO) for AI citation and discoverability
+  - Includes structured schema logic, citation formatting, and LLM visibility tools
+
+
