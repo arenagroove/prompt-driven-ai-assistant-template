@@ -45,7 +45,7 @@ Applies symbolic drift and interpretive lenses to offer layered feedback.
 Rewrites content in a human tone. Removes jargon, hype, and AI-speak.  
 Ideal for internal comms, social posts, intros, and customer-facing updates.
 
----
+### [`promptcraft-coach.md`](./promptcraft-coach.md)  
+Helps users design and debug prompts using structured scoring, symbolic rewrites, and quick critique logic.  
+Great for AI educators, prompt engineers, or assistant builders.
 
-**More test cases coming soon.**  
-Feel free to duplicate and remix these to build your own Prompt-Driven AI Assistants.
