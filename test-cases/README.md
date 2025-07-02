@@ -53,4 +53,6 @@ Great for AI educators, prompt engineers, or assistant builders.
 Helps creators optimize content for AI visibility and citation.  
 Applies Generative Engine Optimization (GEO) strategies using schema, prompt formatting, and metadata.
 
-
+### [`geo-content-strategist-micro-steps.md`](./geo-content-strategist-micro-steps.md)  
+Advanced task breakdown logic for GEO optimization assistants.  
+Defines modular micro-step sequences for schema enhancement, AI visibility, citation readiness, and content refactoring.

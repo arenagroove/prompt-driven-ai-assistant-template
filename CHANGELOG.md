@@ -83,4 +83,27 @@ All notable changes to this project will be documented in this file.
   - Supports Generative Engine Optimization (GEO) for AI citation and discoverability
   - Includes structured schema logic, citation formatting, and LLM visibility tools
 
+---
+
+## [1.3.2] – 2025-07-02
+
+### Added
+- Prompt Sharpening Guide for GPT‑4.1, Claude, Gemini:
+  - 4-step strategy: role clarity, micro-steps, example use, brief-style formatting
+  - Model-specific prompt best practices and checklist
+- New section added to `template-GPT.md` after User Input Guidelines
+- Updated references in `README.md` and `PROJECT.md`:
+  - Key Features and Template Overview table updated
+  - Project Overview includes sharpening logic under `template-GPT.md` scope
+
+### Verified
+- No regressions in assistant behavior
+- Fully backward-compatible with v1.3.1 assistants
+- Reviewed and validated by external tools (Perplexity)
+
+### Test Cases
+- Added `geo-content-strategist-micro-steps.md`:
+  - Advanced modular breakdown of GEO optimization logic
+  - Includes task-specific micro-steps for schema transformation, AI visibility, citation readiness, and strategic refactoring
+  - Complements the core `geo-content-strategist.md` assistant
 

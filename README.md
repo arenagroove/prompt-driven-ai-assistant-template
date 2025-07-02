@@ -65,7 +65,7 @@ Follow these steps to get your assistant running:
 - Testing, validation, troubleshooting, and collaborative tools.
 - Optional PrecisionMode for stricter factual control (Strict / Adaptive / Experimental).
 - Supports prompt engineering techniques like Emotion Shaping or Scrambled Prompting.
-
+- Prompt Sharpening Guide for GPT‑4.1, Claude, Gemini (role clarity, micro-steps, scannable structure)
 
 
 ## 🧱 Template Structure Overview
@@ -74,6 +74,7 @@ Follow these steps to get your assistant running:
 | :-- | :-- |
 | **Purpose** | Defines the assistant’s core objectives and value proposition. |
 | **User Input Guidelines** | Details accepted input types, best practices, and constraints. |
+| **Prompt Sharpening Guide** | How to write clear, modular, example-driven prompts for GPT-4.1, Claude, Gemini. |
 | **Roles** | Behavioral perspectives (e.g., Strategic Partner, Creative Director). |
 | **Lenses** | Interpretive contexts (e.g., Narrative Layering, Strategic Focus). |
 | **Drift Levels** | Range from literal to recursive interpretation. |
@@ -175,6 +176,7 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.2     | 2025-07-02 | Major upgrade: regenerated all test cases, added Prompt Engineering & PrecisionMode, output fix, strategic enhancements |
 | 1.3     | 2025-07-03 | Added multi-agent role flow, memory simulation, adaptive preset logic, and critique mode |
 | 1.3.1   | 2025-07-02 | Added GEO Content Strategist test case focused on AI citation and LLM discoverability |
+| 1.3.2   | 2025-07-02 | Added Prompt Sharpening Guide (GPT‑4.1, Claude, Gemini) + new GEO micro-step test case + updated docs for alignment |
 
 
 ## 📜 License

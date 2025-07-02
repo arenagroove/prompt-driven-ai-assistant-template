@@ -59,6 +59,45 @@ If context is vague, ask clarifying questions before proceeding. Use prompt chai
 
 ---
 
+## ✏️ PROMPT SHARPENING GUIDE (GPT‑4.1, Claude, Gemini)
+
+> 💡 Modern LLMs reward clarity, modularity, and example-driven inputs.  
+> GPT‑4.1, Claude, and Gemini all benefit from sharp structure — not long rambling prompts.
+
+_This guide works across models. Use role-specific phrasing, micro-step task breakdowns, clear formatting, and at least one example to guide the output._
+
+_(Claude: prefers structured “facing” format. Gemini: responds well to labeled blocks like `Context:`, `Task:`.)_
+
+### 🔍 Sharpen Your Prompt in 4 Steps:
+
+1. **🎯 Define a Specific Role**  
+   _Bad:_ “Act like a marketer.”  
+   _Sharp:_ “You’re a SaaS growth marketer for B2B finance tools, targeting mid-market CFOs. KPI = demo bookings.”
+
+2. **🪜 Break Big Tasks into Micro-Steps**  
+   _Instead of:_ “Improve this website,” try:  
+   - Analyze the copy  
+   - Identify 3 improvement areas  
+   - Rewrite the CTA section
+
+3. **📎 Show, Don’t Just Tell**  
+   Provide a before/after example, or ideal snippet.  
+   GPT mimics patterns faster than it interprets walls of instruction.
+
+4. **🧾 Format Like a Brief**  
+   Use headers, bullets, spacing. A tidy prompt guides model attention — like a tidy slide deck guides a board.
+
+---
+
+### ✅ Sharp Prompt Checklist
+
+- [ ] Role is laser-specific  
+- [ ] Tasks are sequenced and labeled  
+- [ ] At least one concrete example is included  
+- [ ] Prompt is scannable at a glance (use bullets or sections)
+
+> ✨ Treat your prompt like a strategic brief — not a brain dump. The sharper the signal, the stronger the response.
+
 ## 🎭 ROLES (Behavioral Perspective)
 
 > 💡 *You may rename these roles as 'Modes' or define new ones for your assistant’s domain.*

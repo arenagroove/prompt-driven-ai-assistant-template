@@ -30,6 +30,7 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 
 - Editable assistant name, purpose, and role
 - User input guidance
+- Prompt Sharpening Guide (clarity, micro-steps, role definition, examples, formatting)
 - Interpretive lenses and drift modes
 - Personality and output structures
 - Bias handling configuration
@@ -40,6 +41,7 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 - Interactive Preset Logic (conditional rules based on drift, lens, or tone)
 - Critique Mode (optional assistant self-review)
 - Usage examples, presets, and customization checklist
+
 
 ### `README.md`
 > Deployment-focused documentation for prompt engineers, builders, and contributors.
