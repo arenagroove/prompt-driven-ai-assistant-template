@@ -176,7 +176,8 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.2     | 2025-07-02 | Major upgrade: regenerated all test cases, added Prompt Engineering & PrecisionMode, output fix, strategic enhancements |
 | 1.3     | 2025-07-03 | Added multi-agent role flow, memory simulation, adaptive preset logic, and critique mode |
 | 1.3.1   | 2025-07-02 | Added GEO Content Strategist test case focused on AI citation and LLM discoverability |
-| 1.3.2   | 2025-07-02 | Added Prompt Sharpening Guide (GPT‑4.1, Claude, Gemini) + new GEO micro-step test case + updated docs for alignment |
+| 1.3.2   | —          | (Deprecated tag due to GitHub display bug – see 1.3.3) |
+| 1.3.3   | 2025-07-02 | Retag of 1.3.2 to resolve GitHub emoji issue + Prompt Sharpening Guide + GEO micro-step logic |
 
 
 ## 📜 License

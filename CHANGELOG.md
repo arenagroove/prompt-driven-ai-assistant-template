@@ -107,3 +107,11 @@ All notable changes to this project will be documented in this file.
   - Includes task-specific micro-steps for schema transformation, AI visibility, citation readiness, and strategic refactoring
   - Complements the core `geo-content-strategist.md` assistant
 
+---
+
+## [1.3.3] – 2025-07-02
+
+### Same as 1.3.2
+- Retagged from 1.3.2 to 1.3.3 to resolve GitHub display issue (emoji corruption)
+
+
