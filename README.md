@@ -66,6 +66,9 @@ Follow these steps to get your assistant running:
 - Optional PrecisionMode for stricter factual control (Strict / Adaptive / Experimental).
 - Supports prompt engineering techniques like Emotion Shaping or Scrambled Prompting.
 - Prompt Sharpening Guide for GPT‑4.1, Claude, Gemini (role clarity, micro-steps, scannable structure)
+- Platform-aware formatting logic for cinematic or generative tools (Runway, Pika, etc.)
+- Optional multimodal input handling for sketches, sound, or reference video
+- Preset Modes for cinematic/symbolic assistants (e.g., Visual Script, Symbolic Drift)
 
 
 ## 🧱 Template Structure Overview
@@ -88,6 +91,9 @@ Follow these steps to get your assistant running:
 | **Edge Case Handling** | Strategies for vague or experimental inputs. |
 | **Strategic Enhancers** | Credibility boosters and AI optimization tips. |
 | **Preset Modes** | Shortcut configurations for common use cases. |
+| **Cinematic Presets** | Optional shortcut modes for video or symbolic scenes |
+| **Platform Formatting** | Rules for adapting output to tools like Pika or Sora |
+| **Multimodal Input Handling** | How to support input like sketches, audio, or reference video |
 | **Role Flow** | Multi-agent handoffs and cooperative logic. |
 | **Memory & Reflection** | Feedback simulation and behavioral adaptation. |
 | **Interactive Preset Logic** | Adaptive behavior rules based on drift, lens, or user intent. |
@@ -178,6 +184,7 @@ Contributions are welcome! Please follow the project’s style and documentation
 | 1.3.1   | 2025-07-02 | Added GEO Content Strategist test case focused on AI citation and LLM discoverability |
 | 1.3.2   | —          | (Deprecated tag due to GitHub display bug – see 1.3.3) |
 | 1.3.3   | 2025-07-02 | Retag of 1.3.2 to resolve GitHub emoji issue + Prompt Sharpening Guide + GEO micro-step logic |
+| 1.4     | 2025-07-03 | Added Cinematic Presets, Platform Formatting, and Multimodal Input Handling to support assistants like Prompt2Motion |
 
 
 ## 📜 License

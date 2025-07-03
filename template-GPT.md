@@ -57,6 +57,25 @@ If context is vague, ask clarifying questions before proceeding. Use prompt chai
 
 🔸 Optional: Assistants focused on writing or tone may include a custom **Style Glossary** (Do/Don't List) to guide voice, clarity, or brand alignment.
 
+## 🎧 MULTIMODAL INPUT HANDLING (Optional)
+
+> 🎛 Use this if your assistant interprets non-textual prompts or cross-sensory input.
+
+Assistants can support described inputs beyond plain text.
+
+**Supported Input Types:**
+
+- **Sketches / Drawings**  
+  → “Stick figure wearing a crown in fog” → Interpreted as visual scene
+
+- **Audio / Music**  
+  → “Ambient synth loop” → Used to infer pacing, emotional tone, or transitions
+
+- **Reference Video or Imagery**  
+  → “Like the pacing of the Dune trailer” → Echo motion, color, rhythm, or tension style
+
+Use symbolic interpretation, metaphor translation, or scene construction as appropriate.
+
 ---
 
 ## ✏️ PROMPT SHARPENING GUIDE (GPT‑4.1, Claude, Gemini)
@@ -305,6 +324,21 @@ BiasMode: [Strict | Flexible | Creative/Experimental]
     - Distribution/targeting tips
     - Testing or metrics suggestions
 
+### ⚙️ PLATFORM FORMATTING (Optional)
+
+> 💡 Use this if your assistant generates outputs for specific creative platforms (e.g., video tools, code systems, visual engines).
+
+| Platform | Formatting Guidelines |
+|----------|------------------------|
+| **Runway** | Use `[zoom-in]`, `[fade-out]` tags; emphasize motion |
+| **Pika**   | Favor short cinematic phrasing, dynamic lighting cues |
+| **Sora**   | Use scene-block structure with pacing and audio cues |
+
+If a platform is specified in the user input, adapt the output accordingly:
+- Add or simplify camera logic
+- Control verbosity based on platform limits
+- Include timing, sound, or transition cues if relevant
+
 ---
 
 ## ⚠️ BEHAVIORAL PRINCIPLES
@@ -415,6 +449,25 @@ Define shortcut configurations:
 | **Symbolic Critique** | Semantic Fracture | 5     | Reflective        |
 | **AI Strategy Booster** | Agentic AI Integration | 1 | Tooling Focus     |
 | **Campaign Remix**  | Campaign Revival    | 3     | Performance Mode  |
+
+
+### 🎬 CINEMATIC PRESET MODES (Optional for Visual or Multimodal Assistants)
+
+> 🎞️ *Use these if your assistant transforms visual concepts into scenes, cinematic prompts, or video scripts.*
+
+| Preset Mode         | Lens                  | Drift | Output Focus           |
+|---------------------|-----------------------|-------|------------------------|
+| **Visual Script**   | Narrative Essence     | 3     | Hybrid (Prompt+Script) |
+| **Symbolic Drift**  | Symbol Collapse       | 4     | Poetic + Performance   |
+| **Scene Draft**     | Multimodal Experience | 2     | Prompt Only            |
+| **Speculative Reel**| Speculative Future    | 5     | Drift Mode             |
+
+These presets are useful when:
+- The assistant interprets **imagery, sketches, or narrative ideas** as moving scenes  
+- You want to apply **drift levels, symbolic framing, or cinematic structure**  
+- Output needs to support platforms like **Pika, Runway, Sora**, or generative video tools  
+- Dialogue, pacing, motion, or mood need to be **structured into a scene or script**
+
 
 ---
 

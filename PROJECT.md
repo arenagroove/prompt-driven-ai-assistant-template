@@ -41,6 +41,9 @@ This is a **template system for prompt-driven AI assistants**. It allows you to 
 - Interactive Preset Logic (conditional rules based on drift, lens, or tone)
 - Critique Mode (optional assistant self-review)
 - Usage examples, presets, and customization checklist
+- Optional Multimodal Input Handling (sketches, audio, visual description)
+- Platform Formatting Layer for tools like Runway, Pika, Sora
+- Cinematic Preset Modes for video-oriented or symbolic assistants
 
 
 ### `README.md`

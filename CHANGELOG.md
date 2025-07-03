@@ -114,4 +114,33 @@ All notable changes to this project will be documented in this file.
 ### Same as 1.3.2
 - Retagged from 1.3.2 to 1.3.3 to resolve GitHub display issue (emoji corruption)
 
+---
+
+## [1.4.0] – 2025-07-03
+
+### Added
+- **Multimodal Input Handling** section in `template-GPT.md`:
+  - Supports input types like sketches, audio cues, and reference imagery
+  - Enables symbolic interpretation and pacing suggestions based on non-textual input
+- **Platform Formatting Layer**:
+  - Output adaptation rules for cinematic/gen AI platforms like Runway, Pika, and Sora
+  - Camera/motion syntax, verbosity control, and transition cue logic
+- **Cinematic Preset Modes**:
+  - New preset set (`Visual Script`, `Symbolic Drift`, `Speculative Reel`, etc.)
+  - Binds lens + drift + output structure for video/script-based assistants
+
+### Updated
+- `README.md`:  
+  - Feature list and structure table updated with 3 new items  
+  - Version history includes v1.4 with descriptive label
+- `PROJECT.md`:  
+  - `template-GPT.md` bullet list extended with cinematic/multimodal support
+  - Internal docs now describe full assistant scope including video/cross-sensory workflows
+
+### Verified
+- Fully backwards-compatible with v1.3.3
+- Aligned across all documentation and implementation logic
+- Validated via test assistant: **Prompt2Motion**
+
+
 
